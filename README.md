@@ -11,3 +11,4 @@ new :
 *arc and circle working on arbitrary plane
 *line to line splitting on arbitrary plane 
 *line to arc/circle splitting at any orthogonal planes
+*surface generate at closed four edge lines 
