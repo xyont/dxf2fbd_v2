@@ -5,7 +5,7 @@ ported to ansi-C to be proposed work inside CGX, standalone exe also provided fo
 Usage: dxf2fbd.exe <file.dxf> [tolerance] [division]
 
 old :
-*Split circle into four arc
+*Split circle into four arc, merge point at coincidence with tolerance.
 
 new : 
 *arc and circle working on arbitrary plane
