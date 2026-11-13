@@ -4,7 +4,7 @@
 /*                                                                         */
 /*      readDxf.c - DXF to FBD Converter for CalculiX CGX                  */
 /*      Generates .fbd file with PNT, LINE, CURVE, and GSUR definitions    */
-/*      Based on dxf2fbd.c by David Colignon & Suyono Nt.                  */
+/*      Based on dxf2fbd.cpp by David Colignon & Suyono Nt.                  */
 /*      Modified to support automatic GSUR generation from closed loops    */
 /*      All comments in English. 3DFACE support removed.                   */
 /* --------------------------------------------------------------------   */
