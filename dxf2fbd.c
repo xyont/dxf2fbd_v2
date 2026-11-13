@@ -4,7 +4,7 @@
 /*                                                                         */
 /*      dxf2fbd_standalone.c - DXF to FBD Converter                        */
 /*      Standalone version for testing and integration                     */
-/*      Based on dxf2fbd.c by David Colignon & Suyono Nt.                  */
+/*      Based on dxf2fbd.cpp by David Colignon & Suyono Nt.                  */
 /*      Modified to support automatic GSUR generation from closed loops    */
 /*      All comments in English. 3DFACE/SOLID support removed.             */
 /* --------------------------------------------------------------------   */
