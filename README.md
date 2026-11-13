@@ -11,4 +11,4 @@ new :
 *arc and circle working on arbitrary plane
 *line to line intersection and splitting on arbitrary plane 
 *line to arc/circle intersection and  splitting at any orthogonal planes
-*surface generate at closed four edge lines 
+*surface generate at closed four edge lines (structured quad mesh)
